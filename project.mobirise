@@ -242,7 +242,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/3-1600x1600-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/3-1600x1600-2000x2000.jpg",
                 "caption": "Heterotopie",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Publicatie",
@@ -283,6 +283,36 @@
                 "image": "@PROJECT_PATH@/assets/images/019-2000x2814.jpg",
                 "caption": "Ghent Art Book Fair",
                 "active": false
+              },
+              {
+                "tags": "Poster",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-05-om-10-2000x2914-800x1165.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-05-om-10-2000x2914.png",
+                "caption": "Heterotopie",
+                "active": false
+              },
+              {
+                "tags": "Poster",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-05-om-11-2000x2939-800x1175.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-05-om-11-2000x2939.png",
+                "caption": "Heterotopie",
+                "active": false
+              },
+              {
+                "tags": "Poster",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-05-om-11-2000x2902-800x1160.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-05-om-11-2000x2902.png",
+                "caption": "Heterotopie",
+                "active": true
               }
             ],
             "spacing": "3",
