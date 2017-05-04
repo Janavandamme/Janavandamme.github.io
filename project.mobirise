@@ -30,7 +30,7 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "Jana Vandamme, Vandamme Jana, Grafisch Ontwerp, Grafisch, Jana, Vandamme",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -431,7 +431,7 @@
     "Contact.html": {
       "settings": {
         "title": "Web Site Maker Title",
-        "meta_descr": "Web Site Maker Description"
+        "meta_descr": "Jana Vandamme, Vandamme Jana, Grafisch Ontwerp, Grafisch, Jana, Vandamme"
       },
       "components": [
         {
@@ -622,7 +622,7 @@
     "About.html": {
       "settings": {
         "title": "Web Site Creator Title",
-        "meta_descr": "Web Site Creator Description"
+        "meta_descr": "Jana Vandamme, Vandamme Jana, Grafisch Ontwerp, Grafisch, Jana, Vandamme"
       },
       "components": [
         {
@@ -780,7 +780,7 @@
     "Work.html": {
       "settings": {
         "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "meta_descr": "Jana Vandamme, Vandamme Jana, Grafisch Ontwerp, Grafisch, Jana, Vandamme"
       },
       "components": [
         {
