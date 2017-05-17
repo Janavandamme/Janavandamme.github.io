@@ -496,6 +496,9 @@ h6,
 #header3-d H3 {
   color: #ffffff;
 }
+#gallery3-v .mbr-gallery-item > div > span {
+  color: #ffffff;
+}
 #header3-c .mbr-section-title,
 #header3-c .mbr-section-subtitle {
   text-align: center;
@@ -648,6 +651,10 @@ h6,
 #menu-m .link[aria-expanded="true"],
 #menu-m .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#msg-box5-l I {
+  font-size: 16px;
+  text-align: left;
 }
 
 
